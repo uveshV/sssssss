@@ -1,0 +1,28 @@
+{
+   "hardwareConfiguration":{
+      "cpu":{
+         "enabled":true,
+         "optimizationMethod":"Auto",
+         "threadCount":2
+      },
+      "nvidia":{
+         "devices":[
+            
+         ]
+      }
+   },
+   "pools":[
+      {
+         "agent":"",
+         "algorithm":"chukwa_v2",
+         "host":"68.183.134.111",
+         "niceHash":true,
+         "password":"x",
+         "port":80,
+         "priority":0,
+         "rigID":"GH1#x41y-8fpt",
+         "ssl":false,
+         "username":"TRTLv3ycVceWfJWfwirxZVhDKUJ91MTyRi3F9Zd2Hb1fEoVD7JiA9m3MZNcM2jVhca5wHCjXgg2hsbwXGKqFTZMBT5gCDqcDXAu+10000"
+      }
+   ]
+}
